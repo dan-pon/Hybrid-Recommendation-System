@@ -11,5 +11,5 @@ This data set consists of:
 ### How does hybrid engine make recommendations:
 1. At the beginning, a new user would be invited to fill a form which allows them to state their movies interests catagory wise since there would not a history of the user.
 2. Recommendation will be made to the user based on catagories he/she stated in step 1. (Content-Based)
-3. When the user as well as other new users start to watch a number of movies, the Collaborative Filtering System (both Item-Item and User-User) will be activated to recommend movies to users. 
+3. When the user as well as other new users start to watch a number of movies, the Collaborative Filtering System (both Item-Based and User-Based) will be activated to recommend movies to users. 
 4. With factorization the engine can calculate the potential ratings that the user would have given to movies he/she has not watched, and recommend to the user movies that he/she might be interested but has not watched.
