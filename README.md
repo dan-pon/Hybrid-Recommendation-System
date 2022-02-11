@@ -6,6 +6,8 @@ This data set consists of:
 * Each user has rated at least 20 movies. 
 * Simple demographic info for the users (age, gender, occupation, zip)
 
+![EDA](https://user-images.githubusercontent.com/92283861/153573291-beae7d91-7785-47ff-baf1-8f8ad847cc59.png)
+
 ### How does hybrid engine make recommendations:
 1. At the beginning, a new user would be invited to fill a form which allows them to state their movies interests catagory wise since there would not a history of the user.
 2. Recommendation will be made to the user based on catagories he/she stated in step 1. (Content-Based)
